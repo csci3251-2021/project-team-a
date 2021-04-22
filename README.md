@@ -1,6 +1,7 @@
-# This team hasn't started yet...
+# Introduction
 
-Check back later!
+We will work on this repo according to the tasks inside the issues folder, I guess?
 
-**Please read `tasks.md` to start your work.**
- 
+# Code
+
+# Contributors
